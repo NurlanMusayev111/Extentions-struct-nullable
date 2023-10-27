@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\bin\Debug\net6.0\Extentions-Struct-Nullable.exe
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\bin\Debug\net6.0\Extentions-Struct-Nullable.deps.json
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\bin\Debug\net6.0\Extentions-Struct-Nullable.runtimeconfig.json
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\bin\Debug\net6.0\Extentions-Struct-Nullable.dll
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\bin\Debug\net6.0\Extentions-Struct-Nullable.pdb
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.dll
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\refint\Extentions-Struct-Nullable.dll
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.pdb
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\Extentions-Struct-Nullable.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Extentions-Struct-Nullable\Extentions-Struct-Nullable\obj\Debug\net6.0\ref\Extentions-Struct-Nullable.dll
