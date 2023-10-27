@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\bin\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.exe
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\bin\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.deps.json
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\bin\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.runtimeconfig.json
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\bin\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.dll
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\bin\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.pdb
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.dll
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\refint\Extention-Struct-Nullable-HOMEWORK.dll
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.pdb
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\Extention-Struct-Nullable-HOMEWORK.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Extention-Struct-Nullable-HOMEWORK\Extention-Struct-Nullable-HOMEWORK\obj\Debug\net6.0\ref\Extention-Struct-Nullable-HOMEWORK.dll
